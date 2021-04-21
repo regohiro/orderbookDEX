@@ -1,0 +1,23 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REGO350/DEX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REGO350/DEX/issues"
+  },
+  "homepage": "https://github.com/REGO350/DEX#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "truffle-assertions": "^0.9.2"
+  }
+}
